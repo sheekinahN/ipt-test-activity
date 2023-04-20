@@ -8,5 +8,9 @@ int main()
     // prints hello world
     printf("Hello Shee");
     printf("I'm Gelie Ann");  
+    printf("Hello World");
+    printf("Nil is here");  
+    printf("Hello, I'm Crits, also known as Oliver!");
+
     return 0;
 }
